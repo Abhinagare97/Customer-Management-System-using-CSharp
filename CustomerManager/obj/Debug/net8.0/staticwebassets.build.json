@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "lzW8FZBwwmpCNqgfj8X+mDstLHuy9FGkpqOHlcXCVD4=",
+  "Source": "CustomerManager",
+  "BasePath": "_content/CustomerManager",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
